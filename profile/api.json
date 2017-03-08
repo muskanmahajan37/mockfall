@@ -1,0 +1,46 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "birthday": null,
+            "constellate": "",
+            "height": 150,
+            "images": [],
+            "interest": "",
+            "user": {
+                "first_name": "",
+                "id": 2,
+                "last_name": "",
+                "username": "root49901b1b3f2244bc"
+            }
+        },
+        {
+            "birthday": null,
+            "constellate": "",
+            "height": 150,
+            "images": [
+                {
+                    "comments": "",
+                    "image": "show/avatar2.jpg"
+                },
+                {
+                    "comments": "",
+                    "image": "show/avatar.jpg"
+                },
+                {
+                    "comments": "",
+                    "image": "show/472311.jpeg"
+                }
+            ],
+            "interest": "",
+            "user": {
+                "first_name": "",
+                "id": 3,
+                "last_name": "",
+                "username": "phodal"
+            }
+        }
+    ]
+}
