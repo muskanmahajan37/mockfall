@@ -4,43 +4,37 @@
     "previous": null,
     "results": [
         {
+            "user": {
+                "id": 1,
+                "username": "root",
+                "last_name": "",
+                "first_name": ""
+            },
             "birthday": null,
             "constellate": "",
+            "bio": "",
             "height": 150,
-            "images": [],
             "interest": "",
-            "user": {
-                "first_name": "",
-                "id": 2,
-                "last_name": "",
-                "username": "root49901b1b3f2244bc"
-            }
+            "images": []
         },
         {
-            "birthday": null,
-            "constellate": "",
+            "user": {
+                "id": 2,
+                "username": "root0cce3a9c1a844b31",
+                "last_name": "",
+                "first_name": ""
+            },
+            "birthday": "1991-03-09T04:50:24Z",
+            "constellate": "金牛座",
+            "bio": "待我代码编成，娶你为妻可好",
             "height": 150,
+            "interest": "编程",
             "images": [
                 {
-                    "comments": "",
-                    "image": "show/avatar2.jpg"
-                },
-                {
-                    "comments": "",
-                    "image": "show/avatar.jpg"
-                },
-                {
-                    "comments": "",
-                    "image": "show/472311.jpeg"
+                    "image": "show/growth-index_ZVLnmeE.jpg",
+                    "comments": ""
                 }
-            ],
-            "interest": "",
-            "user": {
-                "first_name": "",
-                "id": 3,
-                "last_name": "",
-                "username": "phodal"
-            }
+            ]
         }
     ]
 }
